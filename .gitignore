@@ -1,0 +1,30 @@
+# Keil 编译输出
+Objects/
+Listings/
+*.uvguix.*
+*.dep
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.map
+*.sct
+*.lst
+*.lnp
+*.build_log.*
+build*.log
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 临时文件
+*.bak
+*.tmp
+*.orig
+
+# RTE 组件备份文件
+*.base@*
